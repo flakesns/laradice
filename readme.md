@@ -30,7 +30,7 @@ composer install
 
 
 ## Demo
-[Demo](https://laradice.herokuapp.com/)
+[Demo](https://laradice.herokuapp.com/public/)
 
 ## Develop By
 [Hafiz](http://hafiznor.herokuapp.com)
