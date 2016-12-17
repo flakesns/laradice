@@ -1,0 +1,1 @@
+var diceApp = angular.module('diceApp', ['mainCtrl', 'diceService']); 
